@@ -1,0 +1,10 @@
+/vendor/*
+*.json
+*.sh
+_template.*
+*.md
+*.ffs_db
+composer.*
+/.idea/
+*.identifier
+*.php_mshield
