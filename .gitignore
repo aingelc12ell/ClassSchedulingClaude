@@ -8,3 +8,5 @@ composer.*
 /.idea/
 *.identifier
 *.php_mshield
+composer.lock
+composer.phar
